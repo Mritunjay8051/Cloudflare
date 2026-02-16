@@ -1,0 +1,6 @@
+name = "blog-preview-worker"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# Sirf naya compatibility flag rakhein
+compatibility_flags = [ "nodejs_compat" ]
