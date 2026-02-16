@@ -1,7 +1,0 @@
-name = "blog-preview-worker"
-main = "worker.js"
-compatibility_date = "2024-01-01"
-
-# Fixed node_compat syntax
-node_compat = true
-compatibility_flags = [ "nodejs_compat" ]
